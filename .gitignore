@@ -36,3 +36,5 @@ sysinfo.txt
 .idea/
 
 .DS_Store
+Logs/Packages-Update.log
+Packages/manifest.json
